@@ -1,0 +1,49 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "environment-control": "git+https://bitbucket.org/backendfiner/environment-control.git",
+    "expo": "^35.0.0",
+    "native-base": "^2.13.8",
+    "prop-types": "^15.7.2",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
+    "react-native-web": "^0.11.7",
+    "react-native-finer": "git+https://bitbucket.org/backendfiner/react-native-finer.git#v1.5.2",
+    "react-native-finer-api": "git+https://bitbucket.org/GioB2/react-native-finer-api.git#v1.0.1",
+    "react-native-finer-device": "git+https://bitbucket.org/GioB2/react-native-finer-device.git",
+    "react-native-finer-drawer": "git+https://bitbucket.org/backendfiner/react-native-finer-drawer.git#v1.0.7",
+    "react-native-finer-event-channels": "git+https://bitbucket.org/GioB2/react-native-finer-event-channels.git",
+    "react-native-finer-list": "git+https://bitbucket.org/backendfiner/react-native-finer-list.git#1.2.4",
+    "react-native-finer-navigation": "https://bitbucket.org/GioB2/react-native-finer-navigation.git",
+    "react-native-finer-redux": "git+https://bitbucket.org/GioB2/react-native-finer-redux.git",
+    "react-native-finer-storage": "git+https://bitbucket.org/GioB2/react-native-finer-storage.git",
+    "react-native-finer-validator": "git+https://bitbucket.org/GioB2/react-native-finer-validator.git",
+    "react-native-gesture-handler": "~1.3.0",
+    "react-native-reanimated": "~1.2.0",
+    "react-native-web": "^0.11.7",
+    "react-navigation": "^4.0.5",
+    "react-navigation-drawer": "^2.2.1",
+    "react-navigation-hooks": "^1.1.0",
+    "react-navigation-stack": "^1.8.0",
+    "react-redux": "^7.1.1",
+    "reactotron-react-native": "^4.0.1",
+    "reactotron-redux": "^3.1.2",
+    "redux": "^4.0.4",
+    "redux-saga": "^1.1.1",
+    "reduxsauce": "^1.1.1",
+    "seamless-immutable": "^7.1.4"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^7.1.0"
+  },
+  "private": true
+}
