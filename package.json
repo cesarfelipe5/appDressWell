@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "environment-control": "git+https://bitbucket.org/backendfiner/environment-control.git",
     "expo": "^35.0.0",
     "native-base": "^2.13.8",
